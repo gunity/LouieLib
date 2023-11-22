@@ -1,0 +1,19 @@
+using LouieLib;
+using LouieLib.Containers;
+using LouieLib.Systems;
+
+namespace #NAMESPACE#
+{
+    public class #SCRIPT_NAME# : StarterBase
+    {
+        protected override void OnBind(IDataContainer container)
+        {
+            
+        }
+
+        protected override void OnInstall(ILouieSystem system)
+        {
+            
+        }
+    }
+}
